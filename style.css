@@ -1,0 +1,63 @@
+#parent{
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(244, 244, 252);
+}
+
+#img{
+    height: 500px;
+    width: 500px;
+    align-content: center;
+    margin-top: 1px;
+    justify-items: center;
+
+}
+.img{ height: 230px;
+    width: 400px;
+    
+}
+.text{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    font-weight: 70px;
+
+}
+
+#form{ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    height:700px ;
+    width: 600px;
+   
+     
+   
+    
+    
+}
+.form2{
+background-color: rgb(187, 126, 126);
+padding:10px ;
+
+height: 400px;
+min-width: 500px;
+ border-radius: 10px;
+ justify-content: center;
+ align-content: center;
+
+} 
+
+.email{
+height: 45px;
+min-width: 300px;
+max-width:410 ;
+
+
+
+}
+
+.button1{
+margin-left: 70px;
+}
